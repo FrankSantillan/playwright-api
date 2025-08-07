@@ -1,0 +1,6 @@
+#Exclude Node Modules
+/node_modules
+#Environment Variables
+.env
+#Exclide .idea folder
+.idea
