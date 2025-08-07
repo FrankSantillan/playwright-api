@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.1.0",
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.2.0",
+    "allure-commandline": "^2.34.1",
+    "dotenv": "^17.2.1",
+    "eslint": "^9.32.0",
+    "multiple-cucumber-html-reporter": "^3.9.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
