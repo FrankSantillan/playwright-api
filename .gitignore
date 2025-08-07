@@ -4,3 +4,6 @@
 .env
 #Exclide .idea folder
 .idea
+
+Exclude allure report
+/allure-report
